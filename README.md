@@ -5,6 +5,18 @@
  Database:- MySql <br>
  Code Editor :- VS Code <br>
  
+ <h2>Admin Credentials</h2> <br>
+ admin@gmail.com   admin@123
+ 
+ <h2>Employee Credentials</h2> <br>
+Aaaa@gmail.com   123 <br>
+Abbb@gmail.com   456 <br>
+Accc@gmail.com   789 <br>
+ 
+ 
+ 
+ 
+ 
  <strong>Login Page</strong> <br>
  ![Screenshot (1)](https://user-images.githubusercontent.com/75840016/134397319-44403e3d-9175-4b7f-bfb4-aae4eda7fbf4.png)
  <strong>Admin Login Page</strong> <br>
